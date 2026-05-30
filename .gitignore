@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
+.idea/
+
+build/
+install/
+*.o
+*.so
+*.a
+*.exe
+
+*.log
+*.tmp

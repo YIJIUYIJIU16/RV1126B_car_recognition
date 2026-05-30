@@ -1,0 +1,5 @@
+/data1/CYC/RV/Car_recognition/imgs/double_yellow.jpg
+/data1/CYC/RV/Car_recognition/imgs/hongkang1.jpg
+/data1/CYC/RV/Car_recognition/imgs/minghang.jpg
+/data1/CYC/RV/Car_recognition/imgs/nongyong_double.jpg
+/data1/CYC/RV/Car_recognition/imgs/police.jpg
